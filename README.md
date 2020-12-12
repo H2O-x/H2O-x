@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 
 - Hi everyone! My name is Milan, but also known as 'H2O'. (Yeah)
 - I am 17-year-old PAWN enthusiast and anime lover.
-- Whenever I have time I learn C++.
+- Whenever I have time I learn C++ and strive to become successful programmer.
