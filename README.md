@@ -9,6 +9,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 -->
 
-- Hi everyone! My name is Milan, but also known as 'H2O'. (Yeah)
-- I am 17-year-old PAWN enthusiast and anime lover.
-- Whenever I have time I learn C++ and strive to become successful programmer.
+Hi everyone, welcome to my profile! 
+My name is Milan, but also known as 'H2O'. I am 17-year-old PAWN enthusiast and anime lover interested in programming and gaming, currently learning C++ and improving everyday.
