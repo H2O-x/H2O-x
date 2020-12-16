@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 -->
 
 - Hi everyone, welcome to my profile! 
-- My name is Milan, but also known as 'H2O'. I am 17-year-old retired PAWN code writer and anime lover interested in programming and gaming, currently learning Golang and improving everyday.
+- My name is Milan, but also known as 'H2O'. I am 17-year-old retired PAWN code writer and anime/manga lover interested in programming and gaming, currently learning Golang and improving everyday.
